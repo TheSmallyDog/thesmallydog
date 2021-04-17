@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on HTMwiki
+- 🌱 I’m currently learning HTML, CSS and MediaWiki
+- 🤔 I’m looking for help with HTMwiki
+- 💬 Ask me about HTMwiki
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I like dogs!
+
 <!--
 **TheSmallyDog/thesmallydog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
